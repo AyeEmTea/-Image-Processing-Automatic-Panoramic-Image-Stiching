@@ -9,3 +9,5 @@ pip install opencv-contrib-python==3.4.2.17
 Use these two commands
 Make sure you have numpy installed
 And execute the main.py
+
+Project Completed
